@@ -1,0 +1,55 @@
+body {
+  background: linear-gradient(
+    109.6deg,
+    rgb(65, 134, 82) 20%,
+    rgb(163, 197, 158) 50%,
+    rgb(233, 238, 233) 100%
+  );
+}
+h1 {
+  color: rgb(148, 17, 148);
+  text-align: center;
+  font-family: "Yellowtail", cursive;
+  font-size: 25px;
+  margin: 10px;
+  background-color: rgb(218, 233, 218);
+  padding: 30px;
+  border: 1px solid;
+  border-radius: 100px 5px 100px 5px;
+}
+img {
+  width: 230px;
+  margin: 40px 100px 0px;
+}
+h3 {
+  color: rgb(148, 17, 148);
+  font-weight: bold;
+}
+h2 {
+  margin-left: 190px;
+  margin-top: -10px;
+  margin-bottom: -10px;
+  font-family: monospace;
+}
+p {
+  margin-left: 80px;
+  margin-right: 40px;
+}
+button {
+  margin-left: 170px;
+  background-color: rgb(218, 233, 218);
+  border: 1px solid;
+  border-color: rgb(148, 17, 148);
+  color: rgb(148, 17, 148);
+  padding: 10px 10px;
+  font-size: 15px;
+  border-radius: 15px;
+}
+.elderberry-syrup-heading {
+  margin-left: 40px;
+  font-family: PT Mono, monospace;
+}
+.sugar-scrub-heading {
+  margin-left: 150px;
+  font-family: PT Mono, monospace;
+}
